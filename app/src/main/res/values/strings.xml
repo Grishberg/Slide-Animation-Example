@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestAnimation</string>
+    <string name="example_text">this is custom view</string>
+    <string name="pay">Оплатить</string>
+    <string name="open_panel">Открыть панель</string>
+</resources>
